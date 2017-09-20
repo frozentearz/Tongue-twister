@@ -1,5 +1,5 @@
 # Tongue-twister
-Some funny tongue twister
+Some funny tongue twister.
 
 ---
 
